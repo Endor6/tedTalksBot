@@ -59,7 +59,8 @@ export class ConfBot {
         "really",
         "alright",
         "thanks",
-        "very"
+        "very",
+        "!"
       ];
 
       // Skype uses "&apos;" rather than a normal apostrophe like WebChat
