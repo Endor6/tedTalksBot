@@ -51,8 +51,7 @@ class ConfBot {
                     "really",
                     "alright",
                     "thanks",
-                    "very",
-                    "no"
+                    "very"
                 ];
                 let text = context.activity.text.toLowerCase();
                 if (text.indexOf("&apos;") != -1) {
