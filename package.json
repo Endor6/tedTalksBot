@@ -1,0 +1,33 @@
+{
+  "name": "msoft-interview-bot-3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.1"
+  },
+  "author": "Adam Manthey",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.11",
+    "@types/restify": "^7.2.9",
+    "botbuilder": "^4.3.2",
+    "botbuilder-ai": "^4.3.4",
+    "botbuilder-dialogs": "^4.3.4",
+    "botframework-config": "^4.3.4",
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^7.0.0",
+    "file-system": "^2.2.2",
+    "metronical.proto": "^0.1.0",
+    "restify": "^8.2.0",
+    "typescript": "^3.4.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}

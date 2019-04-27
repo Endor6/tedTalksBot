@@ -1,0 +1,35 @@
+{
+    "name": "tt-2019",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "tt-2019",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "87"
+        },
+        {
+            "type": "luis",
+            "name": "tedTalks2019",
+            "appId": "f1b3f51b-8510-4242-bd39-0257f29ec523",
+            "version": "0.1",
+            "authoringKey": "I8G3GvSSFtD7pE/Khwx0Eg==!wLUGCneGXx37RX37nAoawRKITrKh3h17hQw+i6bCizgTax5bEHBqD/2mZBL1Mtjh",
+            "subscriptionKey": "H/QNuUTtlPZ3jj/NfZAU6w==!9Yd3B9Q4ee7o/4ykqzRM4qgwHvu5+O8R7fHpFNkzh+ZqEjDvbzui/NJ8+BglPkHw",
+            "region": "westus",
+            "id": "242"
+        },
+        {
+            "type": "qna",
+            "name": "qnaTedTalks03-kb",
+            "kbId": "093ced9d-28ff-44cd-a4cd-eb49d531e414",
+            "subscriptionKey": "KS2LEK1YBLAiVyw2Vd6MPg==!4mHceiCHpla4XNJHNU4Yg5moN/Iyt09GP76Xgb00bDQbkowW9Qkz5XpBXrlM3s3b",
+            "endpointKey": "gwtCGJosNOCe8mAYmbVhAQ==!LttJIp8Jb3bcOSWGEVuJwEJKVnVpLYsnLBurXwcBkMgdVlN/wifUqYWcoTT56h0x",
+            "hostname": "https://qnatedtalks03.azurewebsites.net/qnamaker",
+            "id": "24"
+        }
+    ],
+    "padlock": "9KTi+s7a5wZYn0vALUr+fw==!08PT6jMoCacBY1M8MKWDWerdhP71IkXsEbwQ0nOh1LgN624/bJvUrylyXwIbvsAq",
+    "version": "2.0"
+}

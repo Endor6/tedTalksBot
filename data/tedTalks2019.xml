@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conference name="tedTalks2019" start-date="2019-07-25" end-date="2019-07-25">
+    <day date="2019-07-25">
+        <event type="talk" start-time="09:00 am" end-time="10:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Jocko Willink</speakers>
+            <title>Extreme Ownership</title>
+            <classification>Inspiration</classification>
+            <description>War is hell, but war is also a brutal teacher. War teaches you about brotherhood, honor, humility, and leadership. In this riveting talk, Jocko Willink explains from personal experience how war teaches you the most when things go wrong.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=ljqra3BcqWM</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1fxYw9Om3ut4EDssBI0HMu8FZZen82_jt</photo>
+            </photos>
+        </event>
+        <event type="talk" start-time="10:00 am" end-time="11:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Luvvie Ajayi</speakers>
+            <title>Embracing Uncomfortable</title>
+            <classification>Inspiration</classification>
+            <description>"Your silence serves no one," says the writer, activist and self-proclaimed professional troublemaker. In this bright, uplifting talk, Ajayi shares three questions to ask yourself if you're teetering on the edge of speaking up or quieting down -- and encourages all of us to get a little more comfortable with being uncomfortable.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=QijH4UAqGD8</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1mtwToTIvCsh2TaVK_RU7dwFJptzfJLfF</photo>
+            </photos>
+        </event>
+    </day>
+       <day date="2019-07-26">
+        <event type="talk" start-time="09:00 am" end-time="10:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Graham Hancock</speakers>
+            <title>Foundations of Sand?</title>
+            <classification>History</classification>
+            <description>Since 2007, compelling evidence has been published in leading scientific journals confirming that fragments of a disintegrating giant comet struck the earth around 12,800 years ago. The impacts set in motion a mysterious 1,200-year global deep freeze that caused worldwide extinctions of species.Are there reasons to question our current widely accepted theories about what happened after that event?</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=ZyfE3IvDWR8</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1LKYAjxttlZ5yez_7tIEIhrWb62qmRXI3</photo>
+            </photos>
+        </event>
+        <event type="talk" start-time="10:00 am" end-time="11:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Rupert Sheldrake</speakers>
+            <title>The Science Delusion</title>
+            <classification>Science</classification>
+            <description>Rupert Sheldrake has been dubbed the most controversial scientist on Earth. His best-selling book, The Science Delusion, tackles what he calls the dogmas within conventional science which can blind us to deeper discoveries about the way the world works.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=JKHUaNAxsTg&t=68s</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1DzFQCv7aBkY5YlKki-xVecxoBrtZ2YiP</photo>
+            </photos>
+        </event>
+    </day>
+           <day date="2019-07-27">
+        <event type="talk" start-time="09:00 am" end-time="10:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Thomas Webb</speakers>
+            <title>Ethical Hacking and Subverting the Internet</title>
+            <classification>Technology</classification>
+            <description>Thomas Webb (Tom London) is a magician and hacker who is best known for his performances on Season 12 of the popular talent show America’s Got Talent. He is one of WIRED magazine’s 2017 Next Generation speakers.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=Tp25LmdYlds</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1cJaOKo4yrIQMgSygNx4xVXjxtndA9Jui</photo>
+            </photos>
+        </event>
+        <event type="talk" start-time="10:00 am" end-time="11:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Alex Winter</speakers>
+            <title>The Dark Net is Key to our Privacy</title>
+            <classification>Technology</classification>
+            <description>Documentary filmmaker Alex Winter spent several years immersed in the world of the hidden Internet and talks about how the battle for your right to privacy is being waged in this dark corner of the internet.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=luvthTjC0OI</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1J1zHnON1tb_hsNg9RVApuHcVN2Qv3daC</photo>
+            </photos>
+        </event>
+        <event type="talk" start-time="10:00 am" end-time="11:00 am">
+            <location>Historic Everett Theater</location>
+            <speakers>Nick Bostrom</speakers>
+            <title>Responsible AI Design</title>
+            <classification>Technology</classification>
+            <description>Artificial intelligence is getting smarter by leaps and bounds — within this century, research suggests, a computer AI could be as "smart" as a human being. Nick Bostrom explores the responsibility and planning we must incorportate into the advancement of AI.</description>
+            <keywords>Talk</keywords>
+            <page>https://www.youtube.com/watch?v=MnT1xgZgkpk</page>
+            <photos>
+                <photo type="speaker">https://drive.google.com/uc?id=1fWKiOW85dehNagjGl_IUCrvYsmqm24yW</photo>
+            </photos>
+        </event>
+    </day>
+</conference>
